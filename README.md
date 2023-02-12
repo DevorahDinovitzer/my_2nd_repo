@@ -1,1 +1,1 @@
-# my_2nd_repo
+# my_public_repo
